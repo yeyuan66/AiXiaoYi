@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(PYTHONPATH=. python *)",
+      "Bash(powershell *)",
+      "Bash(pip install *)",
+      "Bash(pip uninstall *)",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}
