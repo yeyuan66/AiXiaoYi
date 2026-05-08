@@ -1,5 +1,5 @@
 """
-AI小益 - 招商银行收益升级中台智能化运营助手
+AI小益 - 收益升级中台智能化运营助手
 程序入口
 """
 
@@ -28,7 +28,7 @@ def main() -> None:
     主函数
     """
     default_logger.info("=" * 60)
-    default_logger.info("AI小益 - 招商银行收益升级中台智能化运营助手")
+    default_logger.info("AI小益 - 收益升级中台智能化运营助手")
     default_logger.info("=" * 60)
 
     try:
